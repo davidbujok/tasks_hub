@@ -83,6 +83,14 @@ print(get_favorite_tv_show(person2))
 # INPUT: person2, "bread"
 # OUTPUT: True
 
+def likes_to_eat(person, food):
+    snacks = person["favourites"]["snacks"]
+    for snack in snacks:
+        if snack == food:
+            return True
+        
+print(likes_to_eat(person2, "bread"))
+
 
 
 # INPUT: person3, "spinach"
