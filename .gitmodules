@@ -1,3 +1,6 @@
 [submodule "friend_lab"]
 	path = friend_lab
 	url = git@github.com:davidbujok/friends_lab.git
+[submodule "code_clan_class_intro"]
+	path = code_clan_class_intro
+	url = git@github.com:davidbujok/code_clan_class_intro.git
