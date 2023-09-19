@@ -1,0 +1,3 @@
+[submodule "friend_lab"]
+	path = friend_lab
+	url = git@github.com:davidbujok/friends_lab.git
