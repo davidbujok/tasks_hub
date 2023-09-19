@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.codeclan.WordCollectionTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.015 s <<< FAILURE! - in com.codeclan.WordCollectionTest
+countLength(com.codeclan.WordCollectionTest)  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<5>
+	at com.codeclan.WordCollectionTest.countLength(WordCollectionTest.java:15)
+
